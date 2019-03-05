@@ -1,0 +1,24 @@
+.btn, .jumbotron {
+  background-color: #861657;
+  background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+  text-align: center;
+}
+
+#submit-btn {
+  display: block;
+  margin:auto;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  text-align: center;
+}
+
+input {
+  max-width: 50%;
+  margin: auto;
+}
+
+.result {
+  text-align: center;
+}
